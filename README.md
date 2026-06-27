@@ -67,6 +67,14 @@ git clone https://github.com/vedant200507/HTML-IPL-Schedule.git
 ---
 
 
+### Home Page
+<img width="1882" height="944" alt="image" src="https://github.com/user-attachments/assets/c7936fa9-2704-4af0-853a-788bf92e9561" />
+
+
+
+---
+
+
 ## 🎯 HTML Concepts Demonstrated
 
 - Headings
